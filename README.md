@@ -1,2 +1,3 @@
 # pyhton_tutorials
-python tutorials for all advanced topics in python , updating regularly
+*updating regularly*
+python tutorials for all advanced topics in python 
